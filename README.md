@@ -1,3 +1,3 @@
-# Busqueda-google-imagenes
+# Buscador de imagenes automatico
 
-Autimatización del proceso de busqueda en google imagenes
+Automatización del proceso de busqueda en google imagenes
